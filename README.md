@@ -49,5 +49,11 @@ He usado git fetch
 2. ¿Cuál es la diferencia fundamental entre ejecutar un git fetch y git pull según lo que acabas de experimentar?.
 git fetch solo comprueba si hay cambios en el repositorio remoto, git pull hace lo mismo pero además los introduce en el repositorio local.
 
+Tarea 6.
+
+• Preguntas de reflexión: 
+Indica los tres comandos que más te ha costado entender y explica por qué.
+Los comandos que más me han costado entender han sido principalmente git fetch y git pull, ya que no entendía en un principio la diferencia entre ambos. También me ha costado entender git remote add porque no sabia que tenia que colocar yo el alias del servidor.
+
 
 
